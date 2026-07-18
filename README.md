@@ -7,11 +7,9 @@ A dedicated **Junior QA Engineer** with nearly 1 year of hands-on experience spe
 
 ## 🛠️ Tech Stack & Tools
 
-| Category | Tools & Technologies |
-| **Manual Testing** | Test Case Design (EP, BVA), Test Scenarios, Defect Report, Jira, Lark |
-| **API Testing** | Postman, Newman (Postman CLI), REST API Testing, JSON Schema Validation |
-| **Automation Testing** | Robot Framework, SeleniumLibrary |
-| **Version Control** | Git, SourceTree, GitHub |
+**Testing Methodologies:** Manual Testing, Functional Testing, Regression Testing, API Testing, Boundary Value Analysis (BVA), Equivalence Partitioning (EP), SDLC, STLC
+**Automation & Testing Tools:** Robot Framework, Selenium WebDriver, Postman, Newman
+**Version Control & Collaboration:** Git, GitHub, SourceTree, Jira, Lark
 
 ---
 
