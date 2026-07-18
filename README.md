@@ -32,8 +32,6 @@ A dedicated **Junior QA Engineer** with nearly 1 year of hands-on experience spe
 
 ---
 
-## 📜 Certifications
-
 ## 🏆 Certifications & Professional Achievements
 
 Dedicated to continuous growth and staying ahead of industry trends, I actively keep my software testing expertise up to date. Below are my core credentials in both manual and automated testing.
@@ -46,7 +44,7 @@ Dedicated to continuous growth and staying ahead of industry trends, I actively 
 * **Manual Testing**
   * Fundamental Knowledge for QA and Testers (2025)
 
-🎯 **[View All My Verified Certificates & Course Credentials Here](https://github.com/Satanun-Srita/QA-Software-Testing-Certifications)**
+📜 **[View All My Verified Certificates & Course Credentials Here](https://github.com/Satanun-Srita/QA-Software-Testing-Certifications)**
 
 ---
 
