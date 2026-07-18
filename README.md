@@ -35,7 +35,23 @@ A detail-oriented and results-driven Software Tester with hands-on experience in
 
 ## 📜 Certifications
 
+### 🏆 Professional Certifications
 
+Featured here is my collection of professional certifications and course completions, specializing in both Manual and Automation Software Testing.
+
+## 🤖 Automation & API Testing
+  **Testing web applications with Robot Framework and Selenium - FutureSkill | 2026
+  <img src="">
+
+  **Automate API testing with Postman and Newman - FutureSkill | 2026
+  <img src="">
+
+  **Workshop API and Functional Manual Test - FutureSkill | 2025
+  <img src="">
+
+## 📝 Manual Testing Foundation
+  **Fundamental Knowledge for QA and Testers - FutureSkill | 2025
+  <img src="">
 
 ---
 
