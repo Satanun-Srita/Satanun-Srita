@@ -1,12 +1,11 @@
-# Hi there, I'm Satanun Srita (Nun)
+# Hi, I'm Satanun Srita (Nun)
 ### Junior Quality Assurance & Software Tester Specialist
 
-**Junior QA / Software Tester with a strong foundation in Manual, API, and Web Automation Testing.**
-A detail-oriented and results-driven Software Tester with hands-on experience in the software development lifecycle. Proven track record of collaborating with Developers and Product teams in Agile/Scrum environments. I specialize in designing airtight manual test cases while actively building and maintaining scalable automated testing suites to accelerate feedback loops and ensure high-quality software delivery.
+A dedicated **Junior QA Engineer** with nearly 1 year of hands-on experience specializing in Manual Testing for restaurant management and POS systems. I have a strong foundation across the full SDLC/STLC, with a proven track record of collaborating with Dev and Product teams within Agile/Scrum environments. I am highly detail-oriented and proactively expanding my capabilities into automation and API testing to continuously elevate software quality.
 
 ---
 
-## 🛠️ Tech Stack & QA Capabilities
+## 🛠️ Tech Stack & Tools
 
 | Category | Tools & Technologies |
 | **Manual Testing** | Test Case Design (EP, BVA), Test Scenarios, Defect Report, Jira, Lark |
@@ -35,31 +34,27 @@ A detail-oriented and results-driven Software Tester with hands-on experience in
 
 ## 📜 Certifications
 
-### 🏆 Professional Certifications
+## 🏆 Certifications & Professional Achievements
 
-Featured here is my collection of professional certifications and course completions, specializing in both Manual and Automation Software Testing.
+Dedicated to continuous growth and staying ahead of industry trends, I actively keep my software testing expertise up to date. Below are my core credentials in both manual and automated testing.
 
-## 🤖 Automation & API Testing
-  **Testing web applications with Robot Framework and Selenium - FutureSkill | 2026
-  <img src="">
+* **Automation & API Testing**
+  * Testing web applications with Robot Framework and Selenium (2026)
+  * Automate API testing with Postman and Newman (2026)
+  * Workshop API and Functional Manual Test (2025)
 
-  **Automate API testing with Postman and Newman - FutureSkill | 2026
-  <img src="">
+* **Manual Testing**
+  * Fundamental Knowledge for QA and Testers (2025)
 
-  **Workshop API and Functional Manual Test - FutureSkill | 2025
-  <img src="">
-
-## 📝 Manual Testing Foundation
-  **Fundamental Knowledge for QA and Testers - FutureSkill | 2025
-  <img src="">
+🎯 **[View All My Verified Certificates & Course Credentials Here](https://github.com/Satanun-Srita/QA-Software-Testing-Certifications)**
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science (B.S.) in Information Technology**
-  *Faculty of Informatics**, Mahasarakham University, Thailand
-  *Graduation Year: 2025 (B.E. 2568)*
+**Bachelor of Science in Information Technology**
+  *Faculty of Informatics*, Mahasarakham University, Thailand
+  Graduation Year: 2025
 
 ---
 
