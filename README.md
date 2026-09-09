@@ -1,32 +1,27 @@
 # Hi, I'm Satanun Srita (Nun)
 ### Junior Quality Assurance & Software Tester Specialist
 
-A dedicated **Junior QA Engineer** with nearly 1 year of hands-on experience specializing in Manual Testing for restaurant management and POS systems. I have a strong foundation across the full SDLC/STLC, with a proven track record of collaborating with Dev and Product teams within Agile/Scrum environments. I am highly detail-oriented and proactively expanding my capabilities into automation and API testing to continuously elevate software quality.
+Detail-oriented **Junior QA Engineer** with 1 year of experience specializing in manual testing for restaurant POS systems. Proficient in SDLC/STLC, Agile methodologies, and cross-functional collaboration. Experienced in API testing via Postman, with expanding expertise in test automation using Robot Framework and Selenium to drive software quality excellence.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-**Testing Methodologies:** Manual Testing, Functional Testing, Regression Testing, API Testing, Boundary Value Analysis (BVA), Equivalence Partitioning (EP), SDLC, STLC
-**Automation & Testing Tools:** Robot Framework, Selenium WebDriver, Postman, Newman
-**Version Control & Collaboration:** Git, GitHub, SourceTree, Jira, Lark
+* **Testing Methodologies:** Manual Testing, Functional Testing, Regression Testing, API Testing
+* **Test Design Techniques:** Boundary Value Analysis (BVA), Equivalence Partitioning (EP)
+* **Quality Frameworks:** Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC)
+* **Test Automation:** Robot Framework, Selenium WebDriver
+* **API Testing & Execution:** Postman, Newman
+* **Database & Querying:** SQL (Data Verification & Integrity Checks)
+* **Version Control & Collaboration:** Git, GitHub, SourceTree, Jira, Lark
 
 ---
 
 ## 🚀 Highlighted QA Projects
 
-### 1. Manual Testing & Structured Test Design
+### 1. API Automated Testing with Postman & Newman
 
-
-
-### 2. API Automated Testing with Postman & Newman
-
-
-
-### 3. Web UI End-to-End Automation Framework
-
-
-
+### 2. Web UI End-to-End Automation Framework with Robot Framework
 
 ---
 
