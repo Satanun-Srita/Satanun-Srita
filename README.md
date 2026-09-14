@@ -19,9 +19,11 @@ Detail-oriented **Junior QA Engineer** with 1 year of experience specializing in
 
 ## 🚀 Highlighted QA Projects
 
-### 1. API Automated Testing with Postman & Newman
+### 1. Web UI End-to-End Automation Framework with Robot Framework
 
-### 2. Web UI End-to-End Automation Framework with Robot Framework
+### 2. API Automation Testing with Postman & Newman
+
+**[View Project API Automation](https://github.com/Satanun-Srita/API-Automation)**
 
 ---
 
