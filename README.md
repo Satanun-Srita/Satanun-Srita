@@ -13,7 +13,7 @@ Detail-oriented **Junior QA Engineer** with 1 year of experience specializing in
 * **Test Automation:** Robot Framework, Selenium WebDriver
 * **API Testing & Execution:** Postman, Newman
 * **Database & Querying:** SQL (Data Verification & Integrity Checks)
-* **Version Control & Collaboration:** Git, GitHub, SourceTree, Jira, Lark
+* **Version Control & Collaboration:** GitHub, SourceTree, Jira, Lark
 
 ---
 
