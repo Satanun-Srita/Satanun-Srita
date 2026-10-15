@@ -19,9 +19,9 @@ Detail-oriented **Junior QA Engineer** with 1 year of experience specializing in
 
 ## 🚀 Highlighted QA Projects
 
-### 1. futureskill UI Automation Framework with Robot Framework
+### 1. Futureskill UI Automation Framework with Robot Framework
 
-**[View Project futureskill UI Automation](https://github.com/Satanun-Srita/futureskill-ui-automation.git)**
+**[View Project Futureskill UI Automation](https://github.com/Satanun-Srita/futureskill-ui-automation)**
 
 ### 2. API Automation Testing with Postman & Newman
 
