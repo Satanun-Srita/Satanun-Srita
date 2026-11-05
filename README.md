@@ -1,7 +1,7 @@
 # Hi, I'm Satanun Srita (Nun)
 ### Junior Quality Assurance & Software Tester Specialist
 
-Detail-oriented **Junior QA Engineer** with 1 year of experience specializing in manual testing for restaurant POS systems. Proficient in SDLC/STLC, Agile methodologies, and cross-functional collaboration. Experienced in API testing via Postman, with expanding expertise in test automation using Robot Framework and Selenium to drive software quality excellence.
+Detail-oriented **Junior Software Tester** with 1 year of experience specializing in manual testing for restaurant POS systems. Proficient in SDLC/STLC, Agile methodologies, and cross-functional collaboration. Experienced in API testing via Postman, with expanding expertise in test automation using Robot Framework and Selenium to drive software quality excellence.
 
 ---
 
